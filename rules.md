@@ -151,6 +151,8 @@ When you ships in positioned in the fore or aft of an enemy ship and outside of 
 As long as you are in the appropriate location, you may roll one additional weapon damage die when determining the damage from ranged weapon attacks which target the enemy ship.
 
 ## Hit Points
+
+#### Effective Hit Points
 * Going Beneath Effective HP
 	* *Captain Disadvantage Not in Yet just Placeholder*
 	* Piloting actions have disadvantage
