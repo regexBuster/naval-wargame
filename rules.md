@@ -195,3 +195,14 @@ At the end of each turn, take the total Casualy Damage and consult the table to 
 ## Officer's Special Actions
 
 *I'ma do this later*
+
+#TODO
+* Officers
+* Ship Customization
+* Conditions
+* Boarding
+* Ramming
+* Adv. when stopped to hit
+* Speed token
+* Area for initiative on the ship piece
+* Change come about to be more useful
