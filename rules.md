@@ -38,7 +38,22 @@
 
 ## Officers
 
-*I might add these later. They aren't super important for the initial gameplay.*
+#### Captian, First Mate, or Quartermaster
+* ***Rally:*** Your Captian can take this action in order to give your ship a bonus d6 to your next set of weapon fire.
+* ***Assess:*** If ramming this turn you deal an extra die of damage as you've positioned the ship to attack the weak points of your enemy's ship.
+* ***Board:*** Give your crew the order to board an adjacent ship.
+
+#### Helmsman
+* ***Evasive Maneuver:*** Take a piloting check with a DC 10. If successful, immediately add 3 to your ship's AC and gain advantage on the next piloting check to contest a boarding check until the end of your next turn. Your ships also travels at half speed next turn.
+* ***Come About:*** See Come About in the Movement section to learn more about the mechanics.
+* ***Ram:*** Ram your ship's prow into another ship using your movement. This action deals 1s12 damage per ehx traveled in a straight line this round (maximum 10 and minimum 2 movement). Your ship takes 1/2 of the damage that is dealt.
+
+### Cannoneer
+* ***Concentrate Fire:*** Move to assist a selection of weaponry on one side of your ship. This section gains +3 to hit its next attack against an enemy ship.
+* ***Assess:*** Make a DC 12 check. If seccessful, you look at an enemy ship you call out a weakness to those under your command. Centering on the weakness they gain an additional damage die per weapon in the selection.
+
+#### Boatswain
+* ***Order Repairs:*** Choosing either the ship or the rigging hp roll (2*x*)d12, where *x* is 1, 2, or 3 if the ship is unrated, 2nd rate, or 1st rate repectively. If you picked ship hp add the full amount rolled to the hit points of the ship. If you picked rigging hp add half of the amount rolled to the hit points of the ship's rigging. 
 
 ## Weapons
 
@@ -197,7 +212,6 @@ At the end of each turn, take the total Casualy Damage and consult the table to 
 *I'ma do this later*
 
 #TODO
-* Officers
 * Ship Customization
 * Conditions
 * Boarding
