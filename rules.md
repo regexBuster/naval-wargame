@@ -71,7 +71,32 @@
 
 ## Ship Customizations
 
-*For simplicity I'll not add these yet*
+#### Bow/Stern Cannon Ports
+**Price: 2,500 each, plus price of cannons**
+
+* ***Characteristics:*** Adds port holes for the use of 2 light cannons facing fore or aft. This acts as a additional "side" of the ship when it comes to weapon firing. Cannons on the fore or the aft follow the same range as cannons on a unrated ship.
+* ***Upgrades:*** *Gunner's Fever (1,000):* Replacing the light cannons only in the bow are triple-barreled cannons. The cannons can be reloaded and shot in the same action. However, they only do 1d10 damage.
+
+#### Ironsides
+**Price: 100,000**
+
+* ***Characteristics:*** +2 to ship AC, Fire resistance and Inflammable. -1 speed and +1 round at half speed before stopping. Denies enemy ships of raking fire bonus. This customization cannot be used with Live Oak or Reinforced Walls.
+* ***Upgrades:*** No further upgrades
+
+#### Live Oak Hull
+**Prices: Bow: 2,000 x Ship Size, Stern: 2,000 x Ship Size, Port Side: 2,500 x Ship Size, Starboard Side: 2,500 x Ship Size (Ship Size: unranked = 1, 2nd rate = 2, 1st rate = 1)**
+
+* ***Characteristics:*** Making the hull out of solid pieces of trees, opposed to pre-cut pieces. +1 AC to attacks to the applied location. Enhancing the Bow or Stern also denies the Raking Fire bonus from the direction enhanced. 
+* ***Upgrades:*** You can purchase this an additional time for each location. This costs the original calculated price times two and each applied side gains an additional +1 AC.
+
+#### Oars
+**Price: 200**
+* ***Characteristics:*** While used you may add one speed to the ship that has this customization. However, you are unable to use cannons to fire at the same time (This takes an action to switch between oars and cannons).
+* ***Upgrades:*** For 1,000 you can add oar-ports in order to use oars and cannons at the same time.
+
+#### Ram
+**Price: 2,000**
+* ***Characteristics:*** Increase the damage that is dealt by the ramming action by 2d12 per hex traveled, and the ramming ship takes only 1/4 damage (instead of 1/2).
 
 # Combat
 
