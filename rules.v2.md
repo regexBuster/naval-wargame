@@ -1,4 +1,4 @@
-<!--- # Table of Contents [link](#anchor) // # <a name="anchor"></a>Anchor--->
+	<!--- # Table of Contents [link](#anchor) // # <a name="anchor"></a>Anchor--->
 <!--- 
 	
 Title
@@ -51,14 +51,31 @@ Glossary
 * *add some pictures of a board with ships turning*
 * **Aggressive Maneuver: Come About**
 	* Using all of your movement to turn in one direction is a rough movement which can cause some of your crew to lose footing.
-	* 
+	* The ship's owner must pass a 10 (+situational modifiers) check with a d20 in order to avoid Overboard Saves (see Overboard Saves in the Specifics heading).
+	* Regardless of the outcome the ship operates on half speed during its next turn or is able to stop in its place.
 
 ## Port and Starboard Action
+
+**Firing Weapons**
+
+**Reloading Weapons**
+* Every weapon needs to reload after being shot. To do so you must use the action of the weapons side to reload them so that you can shoot on the next turn's action.
+
+**Brace**
+* Bracing a side of your ship reduces the Casualties from Casualty Damage and Overboard Saves by half. You may take this action for both sides of a ship applying the halving only to that side of the ship.
+* For this action's benefits to be applied you must take the action to brace befor ramming or being rammed. You gain the benefits of this action until the start of ship's next initiative. 
+
+**Boarding**
+* If your ship is attached to another and that attachment says that it grants you the ability to board is an action that takes up the action of both sides of your ship however.
+* You choose how many crew members you want to leave the ship, as long as you leave at least more than or equal to the amount for a skeleton crew.
+* *Do the actual fighting for boarding later after you get a rules structure worked up*
 
 ## Officer Action
 
 # Component Description
 
 # Specifics
+
+
 
 # End Game
